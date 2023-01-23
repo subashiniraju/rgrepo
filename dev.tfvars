@@ -1,2 +1,2 @@
 rgname = "devrg"
-location = "West Europe"
+location = "East US"
